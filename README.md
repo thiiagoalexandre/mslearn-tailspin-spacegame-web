@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/TailspinThiago0789/Space%20Game%20-%20Web%20-%20Fluxo%20de%20trabalho/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/TailspinThiago0789/Space%20Game%20-%20Web%20-%20Fluxo%20de%20trabalho/_build/latest?definitionId=12&branchName=feature%2Fhome-page-text)
+
 
 # Contributing
 
